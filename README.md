@@ -3,3 +3,4 @@
 
 
 https://github.com/fbphc/Final-Project-DCI/blob/main/img/terGame.gif?raw=true
+https://github.com/fbphc/Final-Project-DCI/blob/main/img/terGame.gif
