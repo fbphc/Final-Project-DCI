@@ -78,7 +78,7 @@ class BullsAndCows {
 \\_/     \\_/     \\_/     \\_/
 `)
     );
-    console.log(this.secretNumber);
+  
     const userNumber = ps(`${colors.green("Your number:")} `);
     const regEx = /^(?!.*(.).*\1)\d{4}$/;
     this.attempts++;
